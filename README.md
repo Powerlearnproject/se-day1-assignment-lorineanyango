@@ -107,12 +107,19 @@ Helps users understand the purpose and structure of the project
 What should be included in a well-written README
 **A good README file should contain the following**; 
 Project Title and Description- A brief overview of the project and its primary objectives.
+
 Installation Instructions- Step-by-step instructions on how to set up the project locally.
+
 Usage Guide- Examples or instructions on how to use the project’s features.
+
 Features- Key functionalities and features of the project.
+
 Contributing Guidelines- Instructions for those interested in contributing, like coding standards, branch naming, and pull request requirements.
+
 License Information- Specifies permissions and usage rights, which is important for open-source projects.
+
 Contact Information- Ways to reach the project maintainers or contributors.
+
 
 README file contributes to collaboration by providing clear guidance for both users and potential contributors, reducing the time they spend figuring out how the project works. 
 
